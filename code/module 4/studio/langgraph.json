@@ -1,7 +1,9 @@
 {
   "dockerfile_lines": [],
   "graphs": {
-    "parallelization": "./parallelization.py:graph"
+    "parallelization": "./parallelization.py:graph",
+    "sub_graphs": "./sub_graphs.py:graph",
+    "map_reduce": "./map_reduce.py:graph"
   },
   "env": "../../.env",
   "python_version": "3.13",
